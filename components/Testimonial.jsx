@@ -8,7 +8,7 @@ export default function Testimonial() {
             {/* Container to heading and testm blocks */}
             <div className="max-w-6xl px-5 mx-auto mt-32 text-center">
                 <h2 className="text-4xl font-bold text-center">
-                    What's Different About Manage?
+                    What&apos;s Different About Manage?
                 </h2>
                 {/* Testimonials container */}
                 <div className="flex flex-col mt-24 md:flex-row md:space-x-6">
